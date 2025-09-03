@@ -1,4 +1,4 @@
-AI Excuse Generator
+# AI Excuse Generator
 
 The AI Excuse Generator is a playful productivity app that helps users come up with quick and creative excuses for everyday situations. Whether it’s being late for work, missing a family event, or skipping a workout, this app uses AI to generate believable (and sometimes funny) excuses in seconds.
 
