@@ -2,7 +2,7 @@
 
 The AI Excuse Generator is a playful productivity app that helps users come up with quick and creative excuses for everyday situations. Whether it’s being late for work, missing a family event, or skipping a workout, this app uses AI to generate believable (and sometimes funny) excuses in seconds.
 
-🚀 Features
+# 🚀 Features
 
 🎲 Random Excuse Generator – One tap to get a ready-to-use excuse.
 
@@ -14,7 +14,7 @@ The AI Excuse Generator is a playful productivity app that helps users come up w
 
 🖌️ Clean, Modern UI – Minimalist design with a purple-to-blue gradient for a smooth user experience.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend: Android Studio
 
@@ -24,7 +24,7 @@ AI: GPT-powered excuse generation
 
 Database: Firebase, MySQLite
 
-📱 Use Cases
+# 📱 Use Cases
 
 Running late for work or school
 
@@ -34,7 +34,7 @@ Explaining delays in transport
 
 Fun icebreaker in social settings
 
-🎯 Why This Project?
+# 🎯 Why This Project?
 
 This app demonstrates skills in:
 
