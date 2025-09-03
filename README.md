@@ -50,6 +50,7 @@ Building user-friendly, interactive applications
 Clean code practices and scalable architecture
 
 # Images of App
+If having trouble viewing the images, please click on the images for a better view.
 <img width="800" height="1000" alt="Screenshot_20250817-200803" src="https://github.com/user-attachments/assets/2a538c7f-f380-4236-ac80-0350ee9466fd" />
 <img width="800" height="1000" alt="Screenshot_20250817-200859" src="https://github.com/user-attachments/assets/671ff307-03fe-403f-b541-e7b1b61fbed0" />
 <img width="800" height="1000" alt="Screenshot_20250817-200826" src="https://github.com/user-attachments/assets/6e15e538-76c6-48f6-b64a-a9b6f34eceb5" />
