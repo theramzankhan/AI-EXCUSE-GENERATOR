@@ -4,7 +4,7 @@ The AI Excuse Generator is a playful productivity app that helps users come up w
 
 # 📥 Download
 You can try out the app by downloading the latest APK:
-https://www.mediafire.com/file/4ndaifv7fgnfvs5/app-debug.apk/file
+Please reach out to me for the apk file (app) on my gmail id: ramzan19198@gmail.com
 
 
 # 🚀 Features
